@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/fish/fish.iml" filepath="$PROJECT_DIR$/fish/fish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-concurrency-in-practice/javaweb-concurrency-in-practice.iml" filepath="$PROJECT_DIR$/javaweb-concurrency-in-practice/javaweb-concurrency-in-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
     </modules>
   </component>
